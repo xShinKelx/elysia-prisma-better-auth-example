@@ -16,7 +16,7 @@ Install the dependencies:
 bun install
 ```
 
-Set up your database by creating a `.env` file based on the `.env.example` file and running the following commands:
+Setup `.env` based on and example env file
 
 ```bash
 mv .env.example .env
