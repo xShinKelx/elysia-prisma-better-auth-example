@@ -1,0 +1,4 @@
+preload = ["src/libs/instrumentation.ts"]
+
+[serve.static]
+plugins = ["bun-plugin-tailwind"]
